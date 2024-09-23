@@ -58,7 +58,23 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scgreen)" alt="minhquan0716" />
 </div>
+<h3 align="left">📊 GitHub Stats:</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact&theme=green" alt="minhquan0716" />
+      </td>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en&theme=green" alt="minhquan0716" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan0716&theme=green" alt="minhquan0716" />
+</div>
 
 
 
