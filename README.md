@@ -56,28 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact&theme=radical" alt="minhquan0716" />
-      </td>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en&theme=dark" alt="minhquan0716" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan0716&" alt="minhquan0716" />
+    <img src="https://www.vectorlogo.zone/logos/git-scgreen)" alt="minhquan0716" />
 </div>
 
 
