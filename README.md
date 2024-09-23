@@ -64,8 +64,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact" alt="minhquan0716" />
-  <img src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en" alt="minhquan0716" width="49.6%"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact" alt="minhquan0716" /></td>
+      <td> <img src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en" alt="minhquan0716"/></td>
+    </tr>
+  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan0716&" alt="minhquan0716" />
 </div>
 
