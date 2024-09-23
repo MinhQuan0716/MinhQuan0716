@@ -70,7 +70,7 @@
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact&theme=radical" alt="minhquan0716" />
       </td>
       <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en" alt="minhquan0716" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en&theme=dark" alt="minhquan0716" />
       </td>
     </tr>
   </table>
