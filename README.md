@@ -65,7 +65,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
   <!-- Top Languages Card with custom width -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact&card_width=445" alt="minhquan0716" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquan0716&show_icons=true&locale=en&layout=compact&card_width=495" alt="minhquan0716" />
   
   <!-- Regular Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&locale=en" alt="minhquan0716" />
@@ -73,3 +73,4 @@
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan0716&" alt="minhquan0716" />
 </div>
+
