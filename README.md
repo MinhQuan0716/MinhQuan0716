@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Trinh Minh Quan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquan0716&label=Profile%20views&color=0e75b6&style=flat" alt="minhquan0716" /> </p>
-[![An image of @minhquan0716's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhquan0716)](https://holopin.io/@minhquan0716)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ttmq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ttmq/" height="30" width="40" /></a>
