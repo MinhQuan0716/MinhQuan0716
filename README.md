@@ -71,9 +71,9 @@ currently:  Building robust APIs & scalable microservices
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhquan0716&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhquan0716&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan0716&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhquan0716&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true"/>
 
 <br/>
 
